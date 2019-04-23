@@ -1,0 +1,10 @@
+/.settings/
+/.project
+**/logs/
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/target/
+/dependency-reduced-pom.xml
+/classes
